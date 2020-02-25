@@ -1,0 +1,23 @@
+{
+  "name": "JYNovels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuyaqi6/JYNovels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuyaqi6/JYNovels/issues"
+  },
+  "homepage": "https://github.com/chuyaqi6/JYNovels#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
